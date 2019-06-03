@@ -1,0 +1,41 @@
+Logic and introduction:
+  we have created a weight conversion calculator. 
+  This is totally web based application which will  run inside a web browser.
+  A user can input value which is to be converted from required 
+ one conversion system into another conversion system. After entering value,it will be converted and displyed in all other 
+ conversions.It is designed in Javascript, CSS and Html.project is styled in CSS andwhereas Javascipt in used both  in head
+ and body of the project.hyperlinks have been used in head part of the project.In html ,import types and labels of conversions,
+ counts ,ids of converstions are created which are further called in javascript. 9 weight converters are created using functions 
+ which are called by ids where reqired formulae of conversion are used.
+
+ Body background colour is linear gradient(90 deg.)
+    Features: The interconversions are between the following:
+         1.Pounds.
+         2.Kilogram.
+         3.Ounces.
+         4.Stones.
+         5.Metric tonnes.
+         6.Troy pounds.
+         7.Miligrams.
+         8.Micrograms.
+It includes Static  website designing. Easy to use,well formatted.project is well commented and easy to understand.
+Tools: 
+We have used  javasrcipt vrsion(ECMAscript5),html 5,and Css.hyperrefrencing is done. Applications used re sublime tesxt and brackets.
+Test instruction:
+Install project by opening terminal in project directory.
+Enter command and install project and run. It is web based application so you can  directly use browser  to test .
+Contributors:
+github.com/Tanya@45
+github.com/truptisatsangi
+github.com/Hrishikesh123rathore
+github.com/sumit _jaat
+github.com/Anjali
+
+
+Support:
+7400708670/8269146721/9424522073
+Reference:
+http://codeforwin.org
+http://www.includehelp.com
+
+
